@@ -1,0 +1,6 @@
+{
+    "login": true,
+    "id": true,
+    "avatar_url": true,
+    "type": true
+}
